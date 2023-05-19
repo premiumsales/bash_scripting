@@ -85,6 +85,8 @@ hile loops are useful when you need to repeatedly execute a set of instructions 
 
 <img width="692" alt="Screenshot 2023-05-19 at 23 28 39" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/fc11b7a7-a172-4e42-a0a8-5f250d85cb7a">
 
+while loops are also useful when you want to create an infinite loop. For example, if you want a loop to continue executing until the user manually hits Ctrl + C or otherwise kills the script. Or if you have a system administration script that continually checks for disk space or some other stat, for example
+
 
 
 

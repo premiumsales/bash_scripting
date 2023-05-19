@@ -91,6 +91,10 @@ while loops are also useful when you want to create an infinite loop. For exampl
 
 <img width="733" alt="Screenshot 2023-05-19 at 23 39 03" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/64dfb943-2b23-493c-bf98-bd8596875943">
 
+#For Loops
+
+This type of for loop is characterized by counting. The range is specified by a beginning (#1) and ending number (#5). The for loop executes a sequence of commands for each member in a list of items.
+
 
 
 

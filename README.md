@@ -63,6 +63,14 @@ OR Operator
 
 For OR operator, either one of the conditions must be met for a true result based on the permutations set. The double pipe || is used.
 
+<img width="786" alt="Screenshot 2023-05-19 at 17 37 11" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/1b83efd0-14b5-404f-8320-c801444de672">
+
+<img width="720" alt="Screenshot 2023-05-19 at 17 22 54" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/6a245437-1468-4fe8-b818-ee41c1c1b082">
+
+<img width="736" alt="Screenshot 2023-05-19 at 17 38 01" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/34882a00-f3da-4883-95ca-3941a9c050d6">
+
+<img width="707" alt="Screenshot 2023-05-19 at 17 38 19" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/e20347e1-eb3d-46cd-8079-12efdf95001f">
+
 
 
 

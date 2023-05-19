@@ -114,5 +114,11 @@ Another case is patching of Linux server
 <img width="657" alt="Screenshot 2023-05-20 at 00 15 16" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/cbdde95a-b800-4ab8-9290-2401ee1e6342">
 
 
+Break loop
+
+The break statement terminates the current loop and passes program control to the command that follows the terminated loop. It is used to exit from a for, while, until , or select loop.
+
+
+
 
 

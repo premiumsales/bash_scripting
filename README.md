@@ -81,7 +81,9 @@ Other 4 different examples can be seen on the casescript.sh file.
 The while loop in a Linux Bash script is a type of loop that continues to execute as long as the programmed condition remains true.
 hile loops are useful when you need to repeatedly execute a set of instructions a certain number of times, or when you want to create an infinite loop.
 
+<img width="672" alt="Screenshot 2023-05-19 at 23 28 04" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/7b3e6a37-2316-44f9-8934-e4dd6cb92f05">
 
+<img width="692" alt="Screenshot 2023-05-19 at 23 28 39" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/fc11b7a7-a172-4e42-a0a8-5f250d85cb7a">
 
 
 

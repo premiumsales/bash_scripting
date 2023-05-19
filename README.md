@@ -61,7 +61,7 @@ For AND operator, both conditions must be correct, else it will output a false r
 
 OR Operator
 
-For OR operator, either one of the conditions must be met for a true result based on the permutations set.
+For OR operator, either one of the conditions must be met for a true result based on the permutations set. The double pipe || is used.
 
 
 

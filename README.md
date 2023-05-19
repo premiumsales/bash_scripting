@@ -95,6 +95,8 @@ while loops are also useful when you want to create an infinite loop. For exampl
 
 This type of for loop is characterized by counting. The range is specified by a beginning (#1) and ending number (#5). The for loop executes a sequence of commands for each member in a list of items.
 
+Following shell script will go though all files stored in /etc directory. The for loop will be abandon when /etc/resolv.conf file found.
+
 
 
 

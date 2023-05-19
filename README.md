@@ -23,3 +23,7 @@ Edit the script with nano or vim editor. To run the script on your terminal use 
 
 <img width="673" alt="Screenshot 2023-05-19 at 15 59 58" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/9ac68355-31d3-4e9f-962e-97d214366199">
 
+
+You can redirect the output to another file. Once you run the script, a new file will be created and the contents too.
+
+

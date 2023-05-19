@@ -53,6 +53,10 @@ For AND operator, both conditions must be correct, else it will output a false r
 
 <img width="720" alt="Screenshot 2023-05-19 at 17 22 54" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/c7e0066c-6a1a-4050-85a1-63b1c7ed0cfb">
 
+<img width="702" alt="Screenshot 2023-05-19 at 17 22 14" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/9eb1570d-5d65-44dc-8d7b-ed4b1dd053ea">
+
+<img width="722" alt="Screenshot 2023-05-19 at 17 21 57" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/30f587e1-1ef0-472b-8448-94e9a084279c">
+
 
 
 

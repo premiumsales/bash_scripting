@@ -77,6 +77,11 @@ The following script accepts the signal number and process id as it’s argument
 Other 4 different examples can be seen on the casescript.sh file.
 
 
+# While loop
+The while loop in a Linux Bash script is a type of loop that continues to execute as long as the programmed condition remains true.
+hile loops are useful when you need to repeatedly execute a set of instructions a certain number of times, or when you want to create an infinite loop.
+
+
 
 
 

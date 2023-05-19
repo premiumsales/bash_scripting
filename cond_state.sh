@@ -26,3 +26,17 @@ else
  echo "Doesnt meet criteria"
 fi
 
+OR OPERATOR
+
+age=7
+
+if [ "$age" -gt 10 ] || [ "$age" -lt 40 ]
+ 
+then
+ 
+     echo "meets age criteria"
+else
+
+ echo "Doesnt meet criteria"
+fi
+

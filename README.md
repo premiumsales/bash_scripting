@@ -101,6 +101,8 @@ Following shell script will go though all files stored in /etc directory. The fo
 
 <img width="664" alt="Screenshot 2023-05-20 at 00 03 08" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/da2892d1-2934-4603-b566-64f37fb1502f">
 
+This script make backup of all file names specified on command line. If .bak file exists, it will skip the cp command.
+
 
 
 

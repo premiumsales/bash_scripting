@@ -16,3 +16,6 @@ To start scripting, create a new file with .sh extension and make the file execu
 touch bashscript.sh 
 
 <img width="691" alt="Screenshot 2023-05-19 at 15 51 40" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/111de4ef-28ff-475a-8648-a950a9ab8479">
+
+Edit the script, please refernece the attached.  To run the script on your terminal use the command ./fileName.sh
+

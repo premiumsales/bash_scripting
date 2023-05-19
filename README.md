@@ -107,6 +107,9 @@ This script make backup of all file names specified on command line. If .bak fil
 
 <img width="722" alt="Screenshot 2023-05-20 at 00 08 22" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/c838b253-cdb8-4139-b2f2-01283553698a">
 
+Another case is patching of Linux server
+
+
 
 
 

@@ -74,6 +74,7 @@ For OR operator, either one of the conditions must be met for a true result base
 # Case statement
 Bash Case Example 1. Sending Signal to a Process
 The following script accepts the signal number and process id as it’s arguments, and sends the signal to a given process id using signal name.
+Other 4 different examples can be seen on the casescript.sh file.
 
 
 

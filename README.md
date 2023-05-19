@@ -87,6 +87,10 @@ hile loops are useful when you need to repeatedly execute a set of instructions 
 
 while loops are also useful when you want to create an infinite loop. For example, if you want a loop to continue executing until the user manually hits Ctrl + C or otherwise kills the script. Or if you have a system administration script that continually checks for disk space or some other stat, for example
 
+<img width="717" alt="Screenshot 2023-05-19 at 23 38 45" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/4b7482af-952f-4415-a3ef-c599796aea00">
+
+<img width="733" alt="Screenshot 2023-05-19 at 23 39 03" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/64dfb943-2b23-493c-bf98-bd8596875943">
+
 
 
 

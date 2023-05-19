@@ -24,3 +24,16 @@ case "$1" in
 *) echo "Signal number $1 is not processed"
    ;;
 esac
+
+
+
+$ sleep 1000
+
+$ ps -a | grep sleep
+23277 pts/2    00:00:00 sleep
+
+$ ./signal.sh 9 23277
+Sending SIGKILL signal
+
+$ sleep 1000
+Killed

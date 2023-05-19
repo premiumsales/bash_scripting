@@ -71,6 +71,12 @@ For OR operator, either one of the conditions must be met for a true result base
 
 <img width="707" alt="Screenshot 2023-05-19 at 17 38 19" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/e20347e1-eb3d-46cd-8079-12efdf95001f">
 
+# Case statement
+Bash Case Example 1. Sending Signal to a Process
+The following script accepts the signal number and process id as it’s arguments, and sends the signal to a given process id using signal name.
+
+
+
 
 
 

@@ -97,6 +97,10 @@ This type of for loop is characterized by counting. The range is specified by a 
 
 Following shell script will go though all files stored in /etc directory. The for loop will be abandon when /etc/resolv.conf file found.
 
+<img width="714" alt="Screenshot 2023-05-20 at 00 02 54" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/0ef1a371-00a2-422a-ad64-26bc11da5223">
+
+<img width="664" alt="Screenshot 2023-05-20 at 00 03 08" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/da2892d1-2934-4603-b566-64f37fb1502f">
+
 
 
 

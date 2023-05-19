@@ -17,5 +17,9 @@ touch bashscript.sh
 
 <img width="691" alt="Screenshot 2023-05-19 at 15 51 40" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/111de4ef-28ff-475a-8648-a950a9ab8479">
 
-Edit the script, please refernece the attached.  To run the script on your terminal use the command ./fileName.sh
+Edit the script, please reference the attached.  To run the script on your terminal use the command ./fileName.sh
+
+<img width="733" alt="Screenshot 2023-05-19 at 15 58 53" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/5a54dc6b-3f51-4987-989f-2b57fedcddf5">
+
+<img width="673" alt="Screenshot 2023-05-19 at 15 59 58" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/9ac68355-31d3-4e9f-962e-97d214366199">
 

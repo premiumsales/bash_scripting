@@ -46,6 +46,7 @@ Reference the script in cond_state.sh, which ascertains if a statement is true o
 <img width="669" alt="Screenshot 2023-05-19 at 16 53 52" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/227c62ac-ecc7-487d-a9d3-0ab99be25831">
 
 AND Operator
+
 For AND operator, both conditions must be correct, else it will output a false result based on the conditions you set.
 
 <img width="708" alt="Screenshot 2023-05-19 at 17 22 40" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/71f9852b-c2ae-4cdf-b12b-3127bd438915">

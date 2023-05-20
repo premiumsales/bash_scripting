@@ -133,6 +133,11 @@ read var1
 
 You are able to alter the behaviour of read with a variety of command line options. (See the man page for read to see all of them.) Two commonly used options however are -p which allows you to specify a prompt and -s which makes the input silent. This can make it easy to ask for a username and password combination.
 
+<img width="732" alt="Screenshot 2023-05-20 at 01 23 30" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/32aff0a1-b7d8-47b6-bbce-7bd142a5545b">
+
+
+<img width="682" alt="Screenshot 2023-05-20 at 01 23 18" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/8fabc41f-9119-4086-9d34-5c105162d9e8">
+
 
 
 

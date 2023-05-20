@@ -168,6 +168,10 @@ Piping and redirection is the means by which we may connect these streams betwee
 Redirecting to a File
 Normally, we will get our output on the screen, which is convenient most of the time, but sometimes we may wish to save it into a file to keep as a record, feed into another system, or send to someone else. The greater than operator ( > ) indicates to the command line that we wish the programs output (or whatever it sends to STDOUT) to be saved in a file instead of printed to the screen
 
+<img width="723" alt="Screenshot 2023-05-20 at 11 47 34" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/06a8ce30-6fb3-4dfa-b546-5ea3b047a059">
+
+<img width="739" alt="Screenshot 2023-05-20 at 11 47 43" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/d980d951-008b-4453-8b18-f809ba3656de">
+
 
 
 

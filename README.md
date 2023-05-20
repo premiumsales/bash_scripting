@@ -194,6 +194,13 @@ Piping sends output from one script to another script. When executed, it will cr
 
 <img width="656" alt="Screenshot 2023-05-20 at 13 03 58" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/a8627dd1-ce2c-45e7-abad-6f58d4c57211">
 
+<img width="732" alt="Screenshot 2023-05-20 at 13 12 29" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/681804bb-84af-4cd1-a543-93f350995f08">
+  
+<img width="728" alt="Screenshot 2023-05-20 at 13 11 52" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/c2e33110-5efc-416f-a8e2-286834c8a1e7">
+  
+<img width="697" alt="Screenshot 2023-05-20 at 13 12 12" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/50a4a7a1-a198-4c6a-b0e3-92562ad84342">
+  
+<img width="681" alt="Screenshot 2023-05-20 at 13 12 37" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/4f71d16c-5bd7-46f2-9305-6fffacbba29b">
 
 
 

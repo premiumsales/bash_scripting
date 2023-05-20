@@ -162,6 +162,11 @@ fd in the paths above stands for file descriptor.
  
   
 <img width="737" alt="Screenshot 2023-05-20 at 01 45 28" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/910495c5-e41b-4925-a605-b917ef6df4d6">
+  
+Piping and redirection is the means by which we may connect these streams between programs and files to direct data in interesting and useful ways.
+
+Redirecting to a File
+Normally, we will get our output on the screen, which is convenient most of the time, but sometimes we may wish to save it into a file to keep as a record, feed into another system, or send to someone else. The greater than operator ( > ) indicates to the command line that we wish the programs output (or whatever it sends to STDOUT) to be saved in a file instead of printed to the screen
 
 
 

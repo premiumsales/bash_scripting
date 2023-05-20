@@ -143,13 +143,19 @@ It's common in Linux to pipe a series of simple, single purpose commands togethe
 Bash accomodates piping and redirection by way of special files. Each process gets it's own set of files (one for STDIN, STDOUT and STDERR respectively) and they are linked when piping or redirection is invoked. Each process gets the following files:
 
 STDIN - /proc/<processID>/fd/0
+  
 STDOUT - /proc/<processID>/fd/1
+  
 STDERR - /proc/<processID>/fd/2
+  
 To make life more convenient the system creates some shortcuts for us:
 
 STDIN - /dev/stdin or /proc/self/fd/0
+  
 STDOUT - /dev/stdout or /proc/self/fd/1
+  
 STDERR - /dev/stderr or /proc/self/fd/2
+  
 fd in the paths above stands for file descriptor.
 
 

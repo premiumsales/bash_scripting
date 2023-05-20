@@ -157,6 +157,11 @@ STDOUT - /dev/stdout or /proc/self/fd/1
 STDERR - /dev/stderr or /proc/self/fd/2
   
 fd in the paths above stands for file descriptor.
+  
+<img width="736" alt="Screenshot 2023-05-20 at 01 45 48" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/f25028ea-3031-4ce7-85aa-a03bc6c655ab">
+ 
+  
+<img width="737" alt="Screenshot 2023-05-20 at 01 45 28" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/910495c5-e41b-4925-a605-b917ef6df4d6">
 
 
 

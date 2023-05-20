@@ -171,6 +171,8 @@ Normally, we will get our output on the screen, which is convenient most of the 
 <img width="723" alt="Screenshot 2023-05-20 at 11 47 34" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/06a8ce30-6fb3-4dfa-b546-5ea3b047a059">
 
 <img width="739" alt="Screenshot 2023-05-20 at 11 47 43" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/d980d951-008b-4453-8b18-f809ba3656de">
+  
+Piping sends output from one script to another script. When executed, it will create a new script with the messages.
 
 
 

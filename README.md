@@ -180,6 +180,11 @@ Piping sends output from one script to another script. When executed, it will cr
   
 <img width="711" alt="Screenshot 2023-05-20 at 12 18 34" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/f48b02cc-c2d6-4958-acd4-76c2db3f7bc9">
 
+  
+ Strings
+ 
+ We will look at verifying if strings match and concentation of strings plus upper and lowe case examples
+ 
 
 
 

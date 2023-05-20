@@ -124,7 +124,12 @@ The break statement terminates the current loop and passes program control to th
 USER INPUT
 
 If we would like to ask the user for input then we use a command called read. This command takes the input and will save it into a variable.
+
 read var1
+
+<img width="639" alt="Screenshot 2023-05-20 at 01 14 35" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/ff7394e0-9555-49c7-8cf0-da5c3c9061d9">
+
+<img width="700" alt="Screenshot 2023-05-20 at 01 14 23" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/5cb4ec76-7f8f-4908-a9b3-23a083dfc67a">
 
 
 

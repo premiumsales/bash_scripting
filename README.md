@@ -209,6 +209,10 @@ Piping sends output from one script to another script. When executed, it will cr
  ARITHMETRIC OPERATORS
   
  See sample script for additional, subtraction and multiplication.
+  
+<img width="713" alt="Screenshot 2023-05-20 at 14 17 55" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/ecb97ad7-4175-413d-89f3-70572f799398">
+  
+<img width="731" alt="Screenshot 2023-05-20 at 14 17 35" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/6c154028-777b-4ef1-b1f0-60b521378267">
 
 
 

@@ -138,6 +138,20 @@ You are able to alter the behaviour of read with a variety of command line optio
 
 <img width="682" alt="Screenshot 2023-05-20 at 01 23 18" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/8fabc41f-9119-4086-9d34-5c105162d9e8">
 
+It's common in Linux to pipe a series of simple, single purpose commands together to create a larger solution tailored to our exact needs. The ability to do this is one of the real strenghs of Linux. It turns out that we can easily accommodate this mechanism with our scripts also. By doing so we can create scripts that act as filters to modify data in specific ways for us.
+
+Bash accomodates piping and redirection by way of special files. Each process gets it's own set of files (one for STDIN, STDOUT and STDERR respectively) and they are linked when piping or redirection is invoked. Each process gets the following files:
+
+STDIN - /proc/<processID>/fd/0
+STDOUT - /proc/<processID>/fd/1
+STDERR - /proc/<processID>/fd/2
+To make life more convenient the system creates some shortcuts for us:
+
+STDIN - /dev/stdin or /proc/self/fd/0
+STDOUT - /dev/stdout or /proc/self/fd/1
+STDERR - /dev/stderr or /proc/self/fd/2
+fd in the paths above stands for file descriptor.
+
 
 
 

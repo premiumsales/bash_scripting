@@ -184,6 +184,10 @@ Piping sends output from one script to another script. When executed, it will cr
  Strings
  
  We will look at verifying if strings match and concentation of strings plus upper and lowe case examples
+  
+<img width="746" alt="Screenshot 2023-05-20 at 12 39 31" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/9e48d016-acac-405e-b2c1-dea406ac86ed">
+
+<img width="726" alt="Screenshot 2023-05-20 at 12 39 41" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/fffc2ede-d449-423b-a786-6a096dd4899b">
  
 
 

@@ -173,6 +173,12 @@ Normally, we will get our output on the screen, which is convenient most of the 
 <img width="739" alt="Screenshot 2023-05-20 at 11 47 43" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/d980d951-008b-4453-8b18-f809ba3656de">
   
 Piping sends output from one script to another script. When executed, it will create a new script with the messages.
+  
+<img width="734" alt="Screenshot 2023-05-20 at 12 18 54" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/b3ca315f-e29e-4d42-8d67-b906622f211c">
+  
+<img width="750" alt="Screenshot 2023-05-20 at 12 19 18" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/4ecb6cd4-7dce-48cf-aac2-408a2aa4b89a">
+  
+<img width="711" alt="Screenshot 2023-05-20 at 12 18 34" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/f48b02cc-c2d6-4958-acd4-76c2db3f7bc9">
 
 
 

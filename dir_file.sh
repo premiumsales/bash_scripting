@@ -18,3 +18,22 @@ else
    echo "$directory doesnt exist"
 
 fi 
+
+
+#! /bin/bash
+
+echo "Enter FileName to check"
+
+read FileName
+
+if [ -f "$FileName" ]
+
+then 
+
+   echo "$FileName exist"
+
+else
+
+   echo "$FileName doesnt exist"
+
+fi 

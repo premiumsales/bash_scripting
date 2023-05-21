@@ -213,6 +213,16 @@ Piping sends output from one script to another script. When executed, it will cr
 <img width="713" alt="Screenshot 2023-05-20 at 14 17 55" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/ecb97ad7-4175-413d-89f3-70572f799398">
   
 <img width="731" alt="Screenshot 2023-05-20 at 14 17 35" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/6c154028-777b-4ef1-b1f0-60b521378267">
+  
+DECLARE A COMMAND
+
+In Linux, "declare -p" shows all variables in the system.
+
+  
+You can create a read-only variable with the command "declare variable_name=value"
+
+  
+  
 
 
 

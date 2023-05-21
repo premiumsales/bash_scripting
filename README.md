@@ -230,7 +230,7 @@ You can create a read-only variable with the command "declare variable_name=valu
   
 ARRAYS
   
-We can array to list all values or specific value based on indexes.
+We can array to list all values or specific value based on indexes. In addition, to count the number of items in the array and to delete a specified item in the array based on the index.
 
 <img width="916" alt="Screenshot 2023-05-21 at 16 16 56" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/5e568adf-08ce-4752-91c7-c94a53526b82">
   

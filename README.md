@@ -278,7 +278,9 @@ The syntax is function funcName ()
  
  In this section, we will use bash to create a directory, confirm if a dir exists, creates a new file, check for validiity of the file and append text or message to the file in question.
   
-
+<img width="739" alt="Screenshot 2023-05-21 at 17 20 07" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/c943d470-ddce-4f1a-963d-68dfa26f3888">
+  
+<img width="740" alt="Screenshot 2023-05-21 at 17 19 41" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/47bedf56-179f-4763-9ef3-ecb8e3fa917e">
   
 
 

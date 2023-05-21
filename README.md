@@ -217,9 +217,18 @@ Piping sends output from one script to another script. When executed, it will cr
 DECLARE A COMMAND
 
 In Linux, "declare -p" shows all variables in the system.
-
   
 You can create a read-only variable with the command "declare variable_name=value"
+  
+<img width="913" alt="Screenshot 2023-05-21 at 15 56 53" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/a92acd6d-a53a-4642-be7b-318509932462">
+  
+<img width="882" alt="Screenshot 2023-05-21 at 15 59 54" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/53abf2e0-3048-44a7-a986-09c577e1c0e5">
+  
+<img width="926" alt="Screenshot 2023-05-21 at 16 00 11" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/19df1585-7a90-4145-9c2c-e2284f371c91">
+  
+<img width="891" alt="Screenshot 2023-05-21 at 16 01 36" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/d8e2c41f-600b-467e-86c9-8be1e68424b8">
+  
+
 
   
   

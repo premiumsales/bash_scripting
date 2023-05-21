@@ -235,7 +235,14 @@ We can array to list all values or specific value based on indexes. In addition,
 <img width="916" alt="Screenshot 2023-05-21 at 16 16 56" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/5e568adf-08ce-4752-91c7-c94a53526b82">
   
 <img width="756" alt="Screenshot 2023-05-21 at 16 16 48" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/261e7ee4-4483-43bf-ab79-0d843e3ce34b">
+
+<img width="925" alt="Screenshot 2023-05-21 at 16 21 22" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/32f3c1e9-f8de-4a27-a6e8-f3916b01ba68">
   
+<img width="767" alt="Screenshot 2023-05-21 at 16 21 02" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/31ec5015-0140-45d7-aca5-bf11118989d9">
+  
+<img width="817" alt="Screenshot 2023-05-21 at 16 25 07" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/9414b78d-d23f-4e27-bdf3-9656c1b49203">
+  
+<img width="757" alt="Screenshot 2023-05-21 at 16 24 57" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/551554ff-c5f5-4709-a515-73d78e6410ce">
 
 
   

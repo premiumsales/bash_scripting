@@ -259,8 +259,13 @@ Screenshots below shows how to delete an item on the array and replace an item w
 FUNCTIONS IN BASH
 
 The syntax is function funcName ()
-  { echo $1
+  
+  { 
+  
+  echo $1
+ 
    }
+  
   funcName
   
 <img width="874" alt="Screenshot 2023-05-21 at 16 56 03" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/fab60a96-9946-453b-b5de-ef7ea4caebb9">

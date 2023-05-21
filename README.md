@@ -228,6 +228,9 @@ You can create a read-only variable with the command "declare variable_name=valu
   
 <img width="891" alt="Screenshot 2023-05-21 at 16 01 36" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/d8e2c41f-600b-467e-86c9-8be1e68424b8">
   
+ARRAYS
+We can array to list all values or specific value based on indexes.
+  
 
 
   

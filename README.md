@@ -270,6 +270,11 @@ The syntax is function funcName ()
   
 <img width="874" alt="Screenshot 2023-05-21 at 16 56 03" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/fab60a96-9946-453b-b5de-ef7ea4caebb9">
   
+ 
+ FILES AND DIRECTORIES
+ 
+ In this section, we will use bash to create a directory, confirm if a dir exists, creates a new file, check for validiity of the file and append text or message to the file in question.
+  
   
 <img width="756" alt="Screenshot 2023-05-21 at 16 55 54" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/e51cf12c-2ffd-4e15-85d4-7fdd56f64de1">
   

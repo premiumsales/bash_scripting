@@ -282,6 +282,11 @@ The syntax is function funcName ()
   
 <img width="740" alt="Screenshot 2023-05-21 at 17 19 41" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/47bedf56-179f-4763-9ef3-ecb8e3fa917e">
   
+<img width="890" alt="Screenshot 2023-05-21 at 17 26 37" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/4e2dc46d-33f9-4ffe-bfd5-5317bbff4a30">
+  
+  
+<img width="875" alt="Screenshot 2023-05-21 at 17 26 26" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/54b343d9-ea68-4af7-919b-e45cff0ac035">
+  
 
 
 

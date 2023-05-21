@@ -250,7 +250,10 @@ Screenshots below shows how to delete an item on the array and replace an item w
 <img width="899" alt="Screenshot 2023-05-21 at 16 42 16" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/23477514-0d6d-48bd-aa4c-d2afa4456880">
   
 <img width="803" alt="Screenshot 2023-05-21 at 16 42 39" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/ff4dcaea-6ace-4367-b3a0-c011a6a5aa54">
-  
+
+<img width="811" alt="Screenshot 2023-05-21 at 16 48 30" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/4f72544f-a662-4cd6-b079-ae18ab253920">
+
+<img width="761" alt="Screenshot 2023-05-21 at 16 48 23" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/79bbc8cc-1843-468b-9dba-ea5830b3a44d">
   
 
 

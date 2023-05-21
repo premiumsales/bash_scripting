@@ -244,6 +244,8 @@ We can array to list all values or specific value based on indexes. In addition,
   
 <img width="757" alt="Screenshot 2023-05-21 at 16 24 57" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/551554ff-c5f5-4709-a515-73d78e6410ce">
 
+  
+Screenshots below shows how to delete an item on the array and replace an item with another.
 
   
   

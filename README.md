@@ -263,6 +263,11 @@ The syntax is function funcName ()
    }
   funcName
   
+<img width="874" alt="Screenshot 2023-05-21 at 16 56 03" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/fab60a96-9946-453b-b5de-ef7ea4caebb9">
+  
+  
+<img width="756" alt="Screenshot 2023-05-21 at 16 55 54" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/e51cf12c-2ffd-4e15-85d4-7fdd56f64de1">
+  
 
 
 

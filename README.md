@@ -288,5 +288,40 @@ The syntax is function funcName ()
 <img width="875" alt="Screenshot 2023-05-21 at 17 26 26" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/54b343d9-ea68-4af7-919b-e45cff0ac035">
   
 
+SENDING EMAIL VIS SCRIPT.
+  
+Firstly, you have to install the app ssmtp with the command
+  
+"sudo apt-get install ssmtp" and go to the google account. Under the security tab, turn on access for 3rd party application.
+  
+On your system, access the gedit file by cd /etc/ssmtp/ssmtp.conf and edit the details with;
+  
+root=email@gmail.com
 
+mailhub=smtp.gmail.com:587
+  
+AuthUser=email@gmail.com
+  
+AuthPass=
+  
+Use STARTLS=yes
+  
+then Save.
+  
+Edit script
+#! /bin/bash
+  
+ssmtp email@gmail.com
+  
+run script
+  
+To: email address
+  
+From: email address
+  
+CC: email address
+  
+Subject: Test email
+  
+This is the body of the mail.
 

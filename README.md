@@ -309,6 +309,7 @@ Use STARTLS=yes
 then Save.
   
 Edit script
+  
 #! /bin/bash
   
 ssmtp email@gmail.com

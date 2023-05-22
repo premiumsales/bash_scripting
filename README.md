@@ -336,3 +336,5 @@ This is the body of the mail.
 <img width="808" alt="Screenshot 2023-05-22 at 11 21 51" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/acfb4e0c-17b0-4685-b616-d7f00b35ae0a">
 
 <img width="919" alt="Screenshot 2023-05-22 at 11 23 02" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/6d86ada0-9e7d-4d8b-8331-fb95c43e10e4">
+  
+You can also check if the file is safe to download.

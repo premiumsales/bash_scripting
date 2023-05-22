@@ -350,4 +350,7 @@ Firstly you have to install the inode notify application using the command
 
 sudo apt-get install inotify-tools and run the scripts.
 
+<img width="908" alt="Screenshot 2023-05-22 at 12 17 20" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/29092818-c5e3-4e7e-8eae-546bd6e70f4c">
+  
+<img width="895" alt="Screenshot 2023-05-22 at 12 17 45" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/be3e025f-1a24-47b6-a869-daf2e74804e6">
   

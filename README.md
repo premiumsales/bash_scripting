@@ -332,5 +332,7 @@ This is the body of the mail.
  This command is used to download a script from the internet using the url address. You can use this command to send the data to another file.
 
 <img width="835" alt="Screenshot 2023-05-22 at 11 22 01" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/8ec2ad0f-bf72-45be-9dba-c19537a05199">
+  
+<img width="808" alt="Screenshot 2023-05-22 at 11 21 51" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/acfb4e0c-17b0-4685-b616-d7f00b35ae0a">
 
 <img width="919" alt="Screenshot 2023-05-22 at 11 23 02" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/6d86ada0-9e7d-4d8b-8331-fb95c43e10e4">

@@ -342,3 +342,12 @@ You can also check if the file is safe to download.
 <img width="914" alt="Screenshot 2023-05-22 at 11 38 19" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/0a666d8d-54b0-4268-8a39-91ede29f4deb">
   
 <img width="911" alt="Screenshot 2023-05-22 at 11 37 59" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/b6dd331e-e95c-4d3a-8501-9f417410c6f9">
+  
+
+FILE SYSTEM EVENTS WITH INOTIFY
+  
+Firstly you have to install the inode notify application using the command
+
+sudo apt-get install inotify-tools and run the scripts.
+
+  

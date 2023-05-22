@@ -325,4 +325,9 @@ CC: email address
 Subject: Test email
   
 This is the body of the mail.
+  
+
+ CURL IN SCRIPT
+  
+ This command is used to download a script from the internet using the url address. You can use this command to send the data to another file.
 

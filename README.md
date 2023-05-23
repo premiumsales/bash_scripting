@@ -378,3 +378,7 @@ Scripting command for manipulating report of data. It scans the file, split inpu
   
  Works as stream editor, used to replace words in a file.
   
+ <img width="845" alt="Screenshot 2023-05-23 at 18 48 04" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/ac05352a-b876-4624-b17c-824a933514a5">
+  
+<img width="817" alt="Screenshot 2023-05-23 at 18 47 52" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/18a0326b-c2ea-497b-a53d-e502c2bdf70b">
+  

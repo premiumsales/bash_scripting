@@ -369,4 +369,6 @@ AWK COMMAND
   
 Scripting command for manipulating report of data. It scans the file, split input line, action on unmask line, transfer data files  and format the report.
 
+<img width="717" alt="Screenshot 2023-05-23 at 18 10 31" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/09967447-8eef-4ab4-9a95-3324aacda4ba">
   
+<img width="719" alt="Screenshot 2023-05-23 at 18 10 14" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/f72c6e5b-74b8-410f-b8fa-f0e4714613d6">  

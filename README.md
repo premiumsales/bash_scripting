@@ -364,3 +364,9 @@ We can search for text in files and use script to search for files.
   
 <img width="709" alt="Screenshot 2023-05-23 at 17 47 41" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/32b861f8-b4fa-46ee-85fb-0586c6e337f9">
   
+
+AWK COMMAND
+  
+Scripting command for manipulating report of data. It scans the file, split input line, action on unmask line, transfer data files  and format the report.
+
+  

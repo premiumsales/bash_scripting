@@ -355,4 +355,9 @@ sudo apt-get install inotify-tools and run the scripts.
 
 <img width="908" alt="Screenshot 2023-05-22 at 12 17 20" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/29092818-c5e3-4e7e-8eae-546bd6e70f4c">
 
+
+GREP COMMAND
+
+We can search for files and use script to search for files.
+
   

@@ -358,6 +358,9 @@ sudo apt-get install inotify-tools and run the scripts.
 
 GREP COMMAND
 
-We can search for files and use script to search for files.
+We can search for text in files and use script to search for files.
 
+<img width="745" alt="Screenshot 2023-05-23 at 17 47 55" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/211e7d60-527f-4b1d-9f0a-1a11ba0034a6">
+  
+<img width="709" alt="Screenshot 2023-05-23 at 17 47 41" src="https://github.com/Mamiololo01/bash_scripting/assets/67044030/32b861f8-b4fa-46ee-85fb-0586c6e337f9">
   

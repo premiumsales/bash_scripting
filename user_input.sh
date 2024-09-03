@@ -7,9 +7,9 @@ echo It\'s nice to meet you $varname
 #!/bin/bash
 # Ask the user for login details
 read -p 'Username: ' uservar
-read -sp 'Password: ' passvar
+read -p 'Password: ' passvar
 echo
-echo Thankyou $uservar we now have your login details
+echo Thankyou $passvar we now have your login details
 
 #!/bin/bash
 # A basic summary of my sales report
